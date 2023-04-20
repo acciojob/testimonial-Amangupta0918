@@ -6,7 +6,8 @@
 }
 .h
 {
-	padding-left:20px;
+	
+	padding:20px 0px 0px 40px;
 }
 .x
 {
@@ -14,7 +15,7 @@
   background-color:white;
   border-radius: 5px;
   padding: 5px;
-  margin:40px;
+  margin:50px;
 }
 .a
 {
